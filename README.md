@@ -1,4 +1,4 @@
-# Casper 3 Hugo Starter for Forestry
+# SpeakIn Blog
 
 [Hugo port of the Casper 3 theme](https://github.com/jonathanjanssens/hugo-casper3) originally by Ghost.
 
@@ -11,7 +11,7 @@
 
 ## Content Management
 
-![Forestry user interface](static/images/hugo-casper3-forestry.jpg)
+![Forestry user interface](static/images/Speakin-logo-new.jpg)
 
 This project has been pre-configured to work with [Forestry](https://forestry.io), just import your repository ✨. \
 Any changes you make will be commited back to the repo, and deployed if you're using Netlify.
